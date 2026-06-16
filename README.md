@@ -1,1 +1,1 @@
-https://dominickaranas.github.io/ResearchAndDevelopment_DayTrading_Guide/
+https://domtzy.github.io/ResearchAndDevelopment_DayTrading_Guide/
